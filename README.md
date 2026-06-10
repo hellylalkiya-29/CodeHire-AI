@@ -2,6 +2,9 @@
 
 CodeHire AI is a modern placement preparation and coding progress tracking platform designed for students.
 
+##Live website link
+  ----> https://hellylalkiya-29.github.io/CodeHire-AI/
+  
 ## 📌 Features
 
 * 📊 Dashboard Overview
